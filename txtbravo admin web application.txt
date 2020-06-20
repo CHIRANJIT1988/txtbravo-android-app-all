@@ -1,0 +1,39 @@
+1) LOGIN
+
+- User admin_users table, email and password(md5)
+
+
+2) STORES
+
+- Display all stores with active/deactive option, store details option, view products option- [stores table]
+- On store details - Display store address, delivery details, store categories along with google map - [store_addresses, delivery_details, store_categories table]
+- On view product - Diplay store products
+
+
+3) USERS
+
+- Display all users with view orders, view shipping addresses option - [users table]
+- On click display orders, order details, shipping addresses - [orders, order_details, shipping_addresses table]
+
+4) CATEGORY AND SUB CATEGORY
+
+- Add/Edit and active/deactive category [category table]
+- Add/Edit and active/deactive sub category [sub_category table]
+
+5) ORDERS
+
+- Display all orders and on click display order details
+
+
+6) DEAL - Will discuss with you
+
+- Create/Edit active/deactive deal
+- Push deal
+
+7) Advertisement - Will discuss with you
+
+- Create/Edit active/deactive advertisment
+- Push advertisement
+
+
+NOTE: Hide old functionality if not require
